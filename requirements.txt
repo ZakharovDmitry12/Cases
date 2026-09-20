@@ -1,0 +1,24 @@
+# Data analysis
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning and statistical models
+scikit-learn
+statsmodels
+
+# Excel files
+openpyxl
+
+# Jupyter notebooks
+jupyterlab
+ipykernel
+
+# Parsing
+requests
+bs4
+urlib.parse
