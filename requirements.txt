@@ -10,6 +10,7 @@ seaborn
 # Machine learning and statistical models
 scikit-learn
 statsmodels
+catboost
 
 # Excel files
 openpyxl
